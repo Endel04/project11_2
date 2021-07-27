@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">project11_2</string>
+    <string name="title01">코로나</string>
+    <string name="title02">내 이름은 칸</string>
+    <string name="title03">블랙</string>
+    <string name="title04">러브망고</string>
+    <string name="title05">블랙위도우</string>
+    <string name="title06">너의이름은</string>
+    <string name="title07">귀멸의 칼날 : 무한열차편</string>
+    <string name="title08">크루엘라</string>
+    <string name="title09">날씨의 아이</string>
+    <string name="title10">플립</string>
 </resources>
